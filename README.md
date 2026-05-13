@@ -131,7 +131,7 @@ Inverse of A:
 
 ```
 .
-├── calculator.c          # single‑file source code
+├── main.c          # single‑file source code
 ├── README.md             # this file
 └── LICENSE               # MIT license
 ```
